@@ -29,8 +29,6 @@ I love crafting systems that are **light yet powerful**, **secure yet accessible
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
 ### 🔭 Currently Working On
 
 - **[Go_bus ](https://github.com/Sameer-Kadu/Go_Bus):** Developing a system for booking bus tickets online, including features like seat reservation, route selection, and payment processing.  
@@ -39,13 +37,7 @@ I love crafting systems that are **light yet powerful**, **secure yet accessible
 ### ✅ Completed Projects
 
   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -116,11 +108,11 @@ I love crafting systems that are **light yet powerful**, **secure yet accessible
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sameer-Kadu&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sameer-Kadu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Kadu&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Kadu&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -136,7 +128,3 @@ I love crafting systems that are **light yet powerful**, **secure yet accessible
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
