@@ -31,12 +31,12 @@ I love crafting systems that are **light yet powerful**, **secure yet accessible
 
 ## 🔭 Currently Working On
 
-- **[Go_bus ](https://github.com/Sameer-Kadu/Go_Bus):** Developing a system for booking bus tickets online, including features like seat reservation, route selection, and payment processing.  
+  
   
 
 ## ✅ Completed Projects
 
-  
+  - **[Go_bus ](https://github.com/Sameer-Kadu/Go_Bus):** Develop a system for booking bus tickets online, including features like seat reservation, route selection, and payment processing.
   
 
 <br/>  
